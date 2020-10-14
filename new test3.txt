@@ -1,0 +1,304 @@
+#EXTM3U
+
+#CREATED_BY_SHAHIN
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-gs9ix1cV80w/X4XNS6JuuLI/AAAAAAAAYbc/f05kBHPcNIk7AGgpaQh1y5GCA7t5JLZhgCLcBGAsYHQ/s320/photo.jpg" group-title="",Shahin
+http://bit.ly/btvbkash
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSErnNg_Xnk4FSIyf12DDLklW1z89igKdt52A&usqp=CAU" group-title="IPL 2020",IPL 2020
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZlpIZGZsbWVoZG1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif" group-title="Bangladesh Govt.",BTV World
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlGWnNKM2IzOWxkMEptT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladesh Govt.",Sangsad TV
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZlpIZGZSV1l6ZG1iaE5uT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangla Entertainment",ATN Bangla
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZkZHYm41V1lpOWxiMEZtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Bangla Entertainment",Channel I HD
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlWYWZ4V1p1NVdZb05tT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Bangla Entertainment",Ekushey TV
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZlpIZGZsWFpvTlhkclZtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla Entertainment",NTV
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlsZDA1bU93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Bangla Entertainment",RTV
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlsZDBKbk93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="Bangla Entertainment",Gazi TV
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZlpIZGZsbWVoZG1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangla Entertainment",Maasranga TV
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlWWW41V1l5TlhZaDFtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangla Entertainment",Channel 9 HD
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlWT2Z4V1p1NVdZb05tT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Bangla Entertainment",Bangla Vision
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZjUyYnBOWGEyOVZZc2RtYmhKbU93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="kids",Duronto TV
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZlpIZGY5R2R1OW1jMVJtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOt3yWAtiThOoaXP24ItdKCDw3z7N8N2Ad84-t4W35b7tpvpVl&usqp=CAU" group-title="Bangla Entertainment",Bijoy TV
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYMlIzWDU5bWFwSm1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangla Entertainment",Deepto TV HD
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlsZDA5MWIwQlhabFJtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/Asian-TV-Logo-768x876.jpg" group-title="Bangla Entertainment",Asian TV
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYMlIzWHVGV2F6Rm1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE
+#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2018/03/ATV-Logo.jpg" group-title="Bangla Entertainment",Ananda TV
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYaHgyWnVGbVlwaDJjaEoyYnlCbk93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangla Entertainment",Boishakhi TV
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlsZDA5VmFvdFdZb05YYXZKbU93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="Bangla Entertainment",Bangla TV
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlsZDA5VllzZG1iaEptT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="Bangla Entertainment",Desh TV
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZlpIZGZoMmNsUm1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangla Entertainment",SATV
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYMlIzWGhObk93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Bangla Entertainment",Nagorik TV
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZlpIZGZ0V2F5OTJaaDVtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwpSPqiTQxA4tUFtfFSakY-i0NtIFevlyKRrWNc2niWcT1qG5K&usqp=CAU" group-title="Bangla Entertainment",Mohona TV
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlsZDA5Vll1OUdhdjFtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangla Entertainment",MY TV
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYMlIzWDUxbU93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="Bangla News",ATN News
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYemRYWnU5bGIwRm1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="Bangla News",Ekattor TV
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZlpIZGZKM2IwUlhZclZtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Bangla News",News 24
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZlJHYWZSak1mTjNkbDVtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="Bangla News",Independent TV
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYMlIzWDA1V1prNVdad1ZHWnVsbU93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="Bangla News",DBC News
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYemRYWnU5MVlpUm1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="Bangla News",Independent TV
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYMlIzWDA1V1prNVdad1ZHWnVsbU93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png" group-title="Bangla News",Somoy News
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZk4zZGw1Mlg1OVdidk5uT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="Bangla News",Jamuna TV
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlsZDA5Vll1VlhiaHBtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1mFDQlU_tELMGmcMJefBlNHaCM-yZlV__nH39fEm4ftZ_alp4&usqp=CAU" group-title="Bangla News",Channel 24
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZlJqTWZ4V1p1NVdZb05tT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="Bangla Music",Gaan Bangla
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYaHgyWnVGbVlmNVdZaGRtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxiWBdL7Z_d89XQbHY6jO1cVwx2ZnRQG2JAlcfi_tzjcAkr2PL&usqp=CAU" group-title="Indian Bangla Entertainment ",Star Jalsha HD
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYa2gyWGhoMmNzRm1hZkpYWTBObk93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian Bangla Entertainment ",Zee Bangla HD
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZkZHYm41V1lpOVZabHBuT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="Indian Bangla Entertainment ",Sony Aath
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlGYTBGV1lmbG5idk5uT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla Entertainment ",Colors Bangla HD
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZlJHYWZGR2JuNVdZaTkxY3k5R2J2Tm1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla Entertainment ",Colors Bangla
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZkZHYm41V1lpOTFjeTlHYnZObU93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ3cQXhIXu67qjS_-PWKYclLVcwOGJ1VLfMuKdhHKMdaTA1xvz&usqp=CAU" group-title="Indian Bangla Entertainment ",Akaash Aath
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZmwyWmh4R2JwUm1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHA9blYwnVrZHvp4MalItdJj7LA-RY_9QV9q1PzlI-1EVSgnwD&usqp=CAU" group-title="Indian Bangla Entertainment ",Ruposhi Bangla
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYaHgyWnVGbVlmbEdhejlHYzFKbk93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZk5YWnBaM2J0OVZZb05IYmhwbU93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDk5QPMPqAT6lEMJxELAxP0L4-OVMR7qoAJq2676U4KAOHhYO1&usqp=CAU" group-title="Indian Bangla Music",Sangeet Bangla
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYaHgyWnVGbVlmUlhabGRtYmhObk93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTzEQ9heTuhfYJcQAMkTkhi3-vFnFAN2QWDXyLlMGmyJCqafMF&usqp=CAU" group-title="Indian Bangla Music",Dhoom Music
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYamwyYzExMlh0OTJib1JtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="Hindi Entertainment",Star Plus HD
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlGWm85MWMxeEdjZkpYWTBObk93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Hindi Entertainment",Star Plus
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDkxYzF4R2NmSlhZME5uT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi Entertainment",Sony HD
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZmxuYnZObk93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Hindi Entertainment",Sony SAB HD
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlsWWhObk93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ
+#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hindi Entertainment",Zee TV
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlsZDA5VlpscG5Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Entertainment",Colors HD
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlGWm85MWN5OUdidk5tT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Entertainment",Colors (Asia)
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYaGwyY2g5MWN5OUdidk5tT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="Hindi Entertainment",Star Bharat (Asia)
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYMEZtY2hobVlmSlhZME5uT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUEEboKTR4xz2p8TlDpw4z2kxBJ9b-l0e-Rc-PquMFO6JWt7c3&usqp=CAU" group-title="Hindi Entertainment",Colors Rishtey
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZmxYWjBoMmNwSm5Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Hindi Movies",Star Gold HD
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlGWnM5MlpmSlhZME5uT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Hindi Movies",Star Gold UK
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYc1JuYnA5RlpzOTJaZkpYWTBObk93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="Hindi Movies",Star Gold 2
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDkxYXY5MWNsbG1kdjFtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Hindi Movies",Sony Max HD
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYNEZXYmZsbmJ2Tm5Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi Movies",Sony Max 2
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZkp6WDRGV2JmbG5idk5uT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAvEjqn1pmZ0Y0sKbxKTqLoICHC1AVAoZMpu39uaa4HRfHho-a&usqp=CAU" group-title="Hindi Movies",B4U Movies
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZk5YWnBaM2J0OVZkMEltT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-ZaBbQyfLbHszKJkeVI_1QaHhb9-rE6Wv3krPpqN_Lu6x4pBD&usqp=CAU" group-title="Hindi Movies",Manoranjan TV
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZjVXWXE1V1l5OW1iaDFtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtQzwy7mbf4oohpyLiaxyFSyjqzKKmuxknccXHkokhKfUeOMc_&usqp=CAU" group-title="Hindi Movies",Monoranjan Movies
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYelZXYTI5V2JmNVdZcTVXWXk5bWJoMW1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQs6iuXnpTVJ_euai2qFEHcIBYkVlCkigqbmE0G_hIkq2gUe25S&usqp=CAU" group-title="Hindi Movies",Enter 10
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlsYmxSM1h5VkdkdVZtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU" group-title="SPORTS",Sony Ten 1 HD
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZkZ6WHVWR2RmbG5idk5uT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU" group-title="SPORTS",Sony Ten 2 HD
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZkp6WHVWR2RmbG5idk5uT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="SPORTS",Sony Ten 3 HD
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZk56WHVWR2RmbG5idk5uT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="SPORTS",Sony Six HD
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYNGwyY2ZsbmJ2Tm5Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Infotainment",Discovery HD (English)
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlWZXlWbWR2TjJjcFJtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Infotainment",Discovery Science (Hindi)
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYbE5tYmxsMll6OVZleVZtZHZOMmNwUm1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS84hgVS1QU6oYBmIFShXlVLt1INqdZ8DLiEKr5-ltpSTGuX1GP&usqp=CAU" group-title="Infotainment",Discovery Turbo (Hindi)
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDkxYmlKWGQwOVZleVZtZHZOMmNwUm1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:0 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Infotainment",Animal Planet (Hindi)
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZlJYWnVGR2J3OUZiaDFXYXVGbU93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="Infotainment",Sony BBC Earth HD
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYb1JuY2hWMlhqSm1ZZmxuYnZObk93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Infotainment",National Geographic HD
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZjVXYWY5V1puOUZkaDVtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png" group-title="Infotainment",Nat Geo Wild
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlGWnNsMmRmOVdabjlGZGg1bU93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Infotainment",Nat Geo People
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYbHhHY3ZWR2NmOVdabjlGZGg1bU93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="Infotainment",TLC HD (English)
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlGWm85MVlzUm5Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="Infotainment",TLC (Hindi)
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDkxWXNSbk93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="Infotainment",History TV 18
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZlJHYWZaSGRmbG5jdlIzY3BobU93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg" group-title="Cooking Channel",Fox Life (India)
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYbFpXYXM5RmV2Wm1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLCa5172AYKrPfgPwgAX5CsBccTeZ6R73Ij_D9-Se2TtV8TEX7&usqp=CAU" group-title="Infotainment",BBC Lifestyle
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZlZHYjVSM2NsWldhczkxWWlKbU93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU" group-title="Cooking Channel",Hum Masala
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZkZHYmhOWFl0OVZiMWhtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBDbdvElT5PtG7g65aBce-gV1cs1D1TMGqM4L8tOzfzfTs5dK8&usqp=CAU" group-title="Cooking Channel",FYI TV 18 HD
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlGWm85VmE1Wm1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English Movies",Sony Pix HD (Asia) 
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYNGxHY2ZsbmJ2Tm5Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English Movies",HBO
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDkxYmlobU93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQirrb7mphGUlRzLIeTvs3gKwRVDJCt21kEOj6bNx134xFd4M2M&usqp=CAU" group-title="English Movies",Movies Now HD
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZmQzYnU5MWNsbG1kdjFtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRW7bwrKqPK7xc-lJH7h3CxzDftK-bslZXKnYNbwMUOAklu0S6&usqp=CAU" group-title="English Movies",Lotus Macau
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYelZIZHZ4MlgxRjJZaDFtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFQW_nL-tG692nK9Pi-kKvUd3QO7CFq6Hb6xJ3RXRPORz96yw9&usqp=CAU" group-title="English Movies",Warner TV
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYaWRuT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="English Movies",COMEDY CENTRAL
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYc0ZtYzA1V1pqOVZla1ZXYnZObU93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTudCT3P1UbvRXqeH0I6lvPoIC6bUMbPfzxVPHfueI65G3oZZJV&usqp=CAU" group-title="Hindi Music",Zoom
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZjEyYnZwbk93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTCaE5IZ-lp7bImbjxc_ZgFmHLhM51H_dm5iSODI5XguG_JPb8&usqp=CAU" group-title="Hindi Music",Zing
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZmRtYnBwbk93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwPpZG-Zc721qCuySetMdAPcQ9qbGopnwBgov06dLITRWNQGoc&usqp=CAU" group-title="Hindi Music",B4U Music
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDkxWXBOWGR0OVZkMEltT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU" group-title="Hindi Music",Music India
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYaGxHWnVsMlhqbDJjMTFtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2MTTFmEKapIMaRlFFc72hg7rWdp-PuG4XFcNBymgrORZfiUTx&usqp=CAU" group-title="Hindi Music",9XM
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlWYjRsak93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ-4nJohL8IrVe8hD0RG8TuxNE8Dd28I-mzw5z7F0bSDwL7ZR6&usqp=CAU" group-title="Hindi Music",9X Jalwa
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYaGRIYmhwMlg0bGpPd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzfGgs_rEmtSGXF3ND83x9yqQ-ec-DY5dnYdxcrE-1GD4afm4m&usqp=CAU" group-title="Hindi Music",MTV Beates
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDkxYzBGV1ppOWxkMDFtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png" group-title="English Music",VH1 HD
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlWTW9abk93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="kids",Cartoon Network (Hindi)
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDkxYXk5MmQwVm1iZjUyYnZSbmNoTm1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUDc2IedgFG7neZP1gzxgPmfKwOWOjmDVblPsjdQZsN5NI7PLh&usqp=CAU" group-title="kids",Pogo
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZjkyWnZCbk93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfq48KvLWpPeT7HitixQ08F8487HskZv86vw&usqp=CAU" group-title="kids",NICK HD
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZlJHYWZ0MllwNW1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="kids",NICK (Bangla)
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYdTlXWms5R2JsdDJZcDVtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw5Ywd0kn1Yw7hokd_rVx6XbAiWM9cbXf4tUWccAx3cel5eq5A&usqp=CAU" group-title="kids",Nick Jr
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZkpuYWZ0MllwNW1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="kids",Sonic (Bangla)
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYamxtYnZObk93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg" group-title="kids",Sony Yay (Bangla)
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYNUZXZWZsbmJ2Tm5Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="none" group-title="kids",Discovery Kids (Hindi)
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYelJXYXI5VmV5Vm1kdk4yY3BSbU93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" group-title="International News",BBC World
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlGWnNKM2IzOTFZaUptT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="International News",Al Jazeera
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZkZtY2xWbWVocDJYc0ZtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU" group-title="International News",CNN International
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlsYnVObU93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU" group-title="International News",DW TV Asia
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYM1JtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEKhR0IrpQDUCkW9KSoHMj20PsI5MT-uRWaFFr1Oa0f67tQ48D&usqp=CAU" group-title="International News",Arirang World
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZmRtYmhKWGF5Rm1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnGntoTDveL4C5SrJuUwrW94qkWvuH_EBd0WtGKbbDJ9v3oG75&usqp=CAU" group-title="International News",NHK World
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlGWnNKM2IzOTFhbzVtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzDndevzO7-efsDrXyZvrx56BmXz76gqTOT8tFnP35Otma7V8K&usqp=CAU" group-title="International News",Euro News
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDkxYzNWbWJmOW1jMVZtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpuZLuIn9FHHlI5pLDSDogQR0vxsTaPNAErfukF19ZMt2zJdr0&usqp=CAU" group-title="International News",Rai Italia
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZkZXYXNGR2RwOVZhaEpuT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMSdz9DT_vpqz8u3sENPROUUV--LSH74JfGiNZTC9gF6AJ5pmz&usqp=CAU" group-title="International News",YTN World
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlsYjBsbk93SjNadTlTWjJsR2J2MDJiajVDWmlWMlp1bG1ZdVFIZHY5eUw2TUhjMFJIYQ==
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1_kesiLfXJ9Wu-BF-AD4ne785WSMqnihnFxlV62Vh0V_UYEb1&usqp=CAU" group-title="Pakistani",PTV World
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlGWnNKM2IzOWxkMEJuT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcPH6YON1RUCOHjLcZ1P1_9Lfbw_KacCU4DYLjp9piHD9B7RjV&usqp=CAU" group-title="Pakistani",PTV Home
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYbDEyYm85bGQwQm5Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE
+#EXTINF:0 tvg-logo="https://i.imgur.com/UwRuxHm.png" group-title="Pakistani",PTV Global
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZnhXWWk5R2JuOWxkMEJuT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:0 tvg-logo="https://i.imgur.com/DEu41tl.png" group-title="Pakistani",PTV News
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYemRYWnU5bGQwQm5Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTst9YS4csrU9magWhJI1hbe8ELtlrqYvrpzQ4DtawJT7WMrMxg&usqp=CAU" group-title="Pakistani",ARY Zindagi
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYcGRXYWs1V2E2OVZleUZtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSB57Ufn7cL7DZTiZ8wflmL68sse-FI7TTGpNrd0uqoQL6sVmfj&usqp=CAU" group-title="Pakistani",ARY Digital
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYaGwyY2g5VmV5Rm1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmLpc8NFt3xsWW77Srt7hc3K4kcThTxhZVHA&usqp=CAU" group-title="Pakistani",Hum Sitery
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYNUZtY2hSWGF6OVZiMWhtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="http://www.officeaddresshelplinenumber.com/wp-content/uploads/2018/02/ARY-News-head-office-details.jpg" group-title="Pakistani",Ary News
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYdUZHZHpsMmFoQjNYemRYWnU5VmV5Rm1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Pakistani",Ary Musik
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDkxYXBwWGR0OVZleUZtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROBL2OUFeccg6m4LP6tyddk93ZdjqnBB5xUQ&usqp=CAU" group-title="Hindi News",APN
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYemRYWnU5bGJ3Rm1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcS9SlPwVMMsDbquK6S2TT8XHIQ5yjf0b8_A&usqp=CAU" group-title="Indian Bangla Govt.",DD Bangla
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d0diaDlWWXNkbWJoSjJYa1JtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo= "https://yt3.ggpht.com/a/AATXAJxXDIGRLlrofoI1QDO3MjNOaBC9JvkSuNPM56nVMA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Hindi News",DD News
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZk4zZGw1MlhrUm1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTXNDlLmxHGgqog8ec6Msu0QkKIAjjIQzkxag&usqp=CAU" group-title="Hindi News",Zee News
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYemRYWnU5VlpscG5Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSaBrjQjHIKvxlPff8yX9mOlmrn9r2cI1ATTw&usqp=CAU" group-title="Hindi News",Abp News
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYemRYWnU5RmNpRm1Pd0ozWnU5U1oybEdidjAyYmo1Q1ppVjJadWxtWXVRSGR2OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVBksInJEQ-84XInHvoxkHYqZrRJjM0bzZOQ&usqp=CAU" group-title="English Movies",And Pictures
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JzRjJYbEpYZDBOV2F3OUZadUZtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo= "https://static.abplive.com/frontend/abpananda/images/abp-bengali-og.jpg?impolicy=abp_cdn&imwidth=600" group-title="Bangla News",Abp Ananda
+PWdUZHowbUwwTlhhc2xYWXNCM0xzeFdZZkZHWnVGbWJoOUZjaUZtT3dKM1p1OVNaMmxHYnYwMmJqNUNaaVYyWnVsbVl1UUhkdjl5TDZNSGMwUkhh
+
+#EXTINF:-1,And Pictures
+http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Cinema HD
+http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Zee Action
+http://z5amshls.akamaized.net/action/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,And Flix
+http://z5amshls.akamaized.net/andflix/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,And Prive
+http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Manoranjan Movies
+http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
+#EXTINF:-1,Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1,MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1,B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1,Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
